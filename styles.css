@@ -196,11 +196,10 @@ footer h2{
         padding-bottom: 1rem;
     }
     .textoEncriptado{
-
-    font-size: 1.8rem;
-    color:#495057;
-    padding:1rem 1rem 1rem 1rem;
-    width: 80%;
+        font-size: 1.8rem;
+        color:#495057;
+        padding:1rem 1rem 1rem 1rem;
+        width: 80%;
     }
     .ingresoDatos{
         padding: 0 ;
@@ -211,6 +210,14 @@ footer h2{
         text-align: center;
         padding:1.5rem 4rem;
        
+    }
+    .devolucionDatos h3{
+        padding: 1rem 1rem 0 1rem;
+    }
+    .fotodiamante{
+        display: flex;
+        width: 50%;
+        margin: 2rem auto;    
     }
 }
 
