@@ -175,7 +175,8 @@ footer h2{
     textarea{
         padding: 0;
         width: 78%;
-        font-size: 1.1rem;
+        font-size: 1.2rem;
+        height: 280px ;
     }
     .encriptar, .desencriptar, .copiar{
         width: 80%;
@@ -211,9 +212,10 @@ footer h2{
         padding:1.5rem 4rem;
        
     }
-    .devolucionDatos h3{
+    .devolucionDatos h2, .devolucionDatos h3{
         padding: 1rem 1rem 0 1rem;
     }
+    
     .fotodiamante{
         display: flex;
         width: 50%;
