@@ -167,6 +167,7 @@ footer h2{
 @media only screen and (max-width:375px){
     main{
         width: 100vw;
+        height: auto;
     }
     .ingresoDatos img{
         padding: 1rem;
