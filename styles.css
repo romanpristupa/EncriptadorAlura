@@ -217,7 +217,8 @@ footer h2{
        
     }
     .devolucionDatos h2, .devolucionDatos h3{
-        padding: 1rem 1rem 0 1rem;
+        padding: 0;
+        font-size: 1.1;
     }
     
     .fotodiamante{
